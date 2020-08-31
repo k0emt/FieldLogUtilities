@@ -1,0 +1,33 @@
+!OP,K0EMT,,,,,
+!PARK,5706,,,,,
+!DATE,20200816,,,,,
+
+!MODE,SSB,,,,,
+!BAND,20M,,,,,
+1821,k8mrd,55,33,MI,Park to Park,K-1516
+1824,n5bo,55,55,FL,Park to Park,K-3670
+1835,k4aae,55,45,TN,SOTA W4T/RV-023
+1842,K1LIZ,54,55,TN,SOTA W4T/RV-002
+1847,wc4y,55,59,GA,Park to Park,K-0799
+
+!BAND,40M,,,,,
+1828,n4mte,55,45,TN,Park to Park,K-0708
+1851,ad0h,55,59,IA,Park to Park,K-2319
+1852,ke0yru,55,59,IA,Park to Park,K-2319
+
+!MODE,CW,,,,,
+!BAND,15M,,,,,
+2037,kc0pet,599,599,MO,Skeeter 200,
+
+!BAND,20M,,,,,
+1939,n3aqc,539,569,PA,Skeeter 130,
+1956,ne5dl,559,339,TX,Skeeter 19,
+2033,ve3bxg,539,539,,Park to Park,VE-0057
+2050,n5gw,559,559,MS,Skeeter 51,
+
+!BAND,30M,,,,,
+2059,ve3bxg,439,,,Park to Park,VE-0057
+
+!BAND,40M,,,,,
+2002,wb9hfk,559,559,IL,Skeeter 236,
+2054,kx9x,579,559,IL,Skeeter 274,
